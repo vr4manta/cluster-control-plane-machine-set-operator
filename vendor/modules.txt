@@ -675,7 +675,7 @@ github.com/onsi/gomega/matchers/support/goraph/edge
 github.com/onsi/gomega/matchers/support/goraph/node
 github.com/onsi/gomega/matchers/support/goraph/util
 github.com/onsi/gomega/types
-# github.com/openshift/api v0.0.0-20240919193929-2669d1ebc910
+# github.com/openshift/api v0.0.0-20240919193929-2669d1ebc910 => github.com/vr4manta/api v0.0.0-20240924150740-ec5392903387
 ## explicit; go 1.22.0
 github.com/openshift/api
 github.com/openshift/api/annotations
@@ -769,8 +769,6 @@ github.com/openshift/client-go/config/listers/config/v1alpha1
 github.com/openshift/client-go/machine/applyconfigurations/internal
 github.com/openshift/client-go/machine/applyconfigurations/machine/v1
 github.com/openshift/client-go/machine/applyconfigurations/machine/v1beta1
-github.com/openshift/client-go/operator/applyconfigurations/internal
-github.com/openshift/client-go/operator/applyconfigurations/operator/v1
 # github.com/openshift/cluster-api-actuator-pkg/testutils v0.0.0-20240923122356-a68f3e3bf306
 ## explicit; go 1.21
 github.com/openshift/cluster-api-actuator-pkg/testutils
@@ -780,7 +778,7 @@ github.com/openshift/cluster-api-actuator-pkg/testutils/resourcebuilder/core/v1
 github.com/openshift/cluster-api-actuator-pkg/testutils/resourcebuilder/machine/v1
 github.com/openshift/cluster-api-actuator-pkg/testutils/resourcebuilder/machine/v1beta1
 github.com/openshift/cluster-api-actuator-pkg/testutils/resourcebuilder/meta/v1
-# github.com/openshift/library-go v0.0.0-20240919205913-c96b82b3762b
+# github.com/openshift/library-go v0.0.0-20240919205913-c96b82b3762b => github.com/vr4manta/library-go v0.0.0-20240910183943-6bfccc981bf1
 ## explicit; go 1.22.0
 github.com/openshift/library-go/pkg/certs
 github.com/openshift/library-go/pkg/config/clusteroperator/v1helpers
@@ -1975,3 +1973,5 @@ sigs.k8s.io/structured-merge-diff/v4/value
 ## explicit; go 1.12
 sigs.k8s.io/yaml
 sigs.k8s.io/yaml/goyaml.v2
+# github.com/openshift/api => github.com/vr4manta/api v0.0.0-20240924150740-ec5392903387
+# github.com/openshift/library-go => github.com/vr4manta/library-go v0.0.0-20240910183943-6bfccc981bf1
